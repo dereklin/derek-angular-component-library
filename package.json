@@ -1,6 +1,6 @@
 {
   "name": "derek-angular-component-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -47,5 +47,9 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereklin/derek-angular-component-library.git"
+  }  
 }
