@@ -1,2 +1,2 @@
 export * from './src/app/modules/header/header.module';
-export * from './src/app/modules/hello/hello.module';
+export * from './src/app/services/hello.service';
